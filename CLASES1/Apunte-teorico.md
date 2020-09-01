@@ -29,6 +29,11 @@ asi es un salto de linea <br />
 ```
 ### atributo
 
+Los atributos son elementos que se representan en el formato nombre/ valor y sirven para modificar la funcionalidad de una etiqueta html,siempre se agregan en la etiqueta de apertura.
+por ejemplo
+```
+<img src="imagen.png" with="400" height="300">
+```
 
 
 
